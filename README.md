@@ -1,3 +1,3 @@
 # CureGen
 
-Specially build
+Specially build to make medical system more advance
