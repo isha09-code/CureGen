@@ -1,4 +1,5 @@
 # CureGen
 
 Specially build to make medical system more advance and easy to use.
-It 
+
+It detects various kinds of diseases 
